@@ -1,0 +1,1 @@
+<div class="logo"> <a href="index.php"><img class="img-responsive" src="images/logo.svg" alt="" ></a> </div>
